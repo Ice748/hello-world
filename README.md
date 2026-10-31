@@ -8,4 +8,4 @@ It's just a classic `Hello World!` program written in **C**. You can see it [her
 |\__/ |  ( )
 |o o  |   ) )
 ```
-This is **Arni**! He's mascot of *all* my project.  
+This is **Arni**! He's mascot of *all* my project.
